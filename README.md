@@ -23,18 +23,13 @@ ex. lets support we want a student information
 
 struct Student student{
 
-
 char name[50];
-
 
 int age;
 
-
 double GPA;
 
-
 }
-
 
 struct student std1={"Sofia", 21,3.0};
 
@@ -49,14 +44,16 @@ ex
 
 typedef struct{
 
-
 char name[50];
 
 int age;
+
 double GPA;
+
 }Student;
 
 Strudent std1 = {"Sofia", 21,3.0};
+
 more simple to read
 notice that the name of the struct is in the bottom part of the structure so we can only use Student as a the reference of the structure
 
