@@ -53,6 +53,7 @@ double GPA;
 }Student;
 
 Strudent std1 = {"Sofia", 21,3.0};
+  
 
 more simple to read
 notice that the name of the struct is in the bottom part of the structure so we can only use Student as a the reference of the structure
