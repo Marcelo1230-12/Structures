@@ -8,6 +8,10 @@ how structures works
 
 
 +++++++++++++++
+
+
+
+
 Structures
 
 is helpful to collect data in a single variable, grouping related data of different types in an sinle space, this is use most for
