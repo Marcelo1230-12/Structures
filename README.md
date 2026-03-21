@@ -1,5 +1,12 @@
 # Structures
 how structures works
+
+
+
+
+
+
+
 +++++++++++++++
 Structures
 
